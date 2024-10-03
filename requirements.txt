@@ -1,0 +1,10 @@
+The following libraries I used in my project:
+
+requests: For sending HTTP requests to retrieve web pages.
+beautifulsoup4: For parsing HTML and extracting data from web pages.
+pandas: For reading, processing, and manipulating data stored in CSV files.
+selenium: For automating web browser interactions to scrape dynamic content.
+nltk: For natural language processing tasks such as tokenizing text and removing stopwords.
+spacy: For advanced natural language processing, including lemmatization.
+matplotlib: For data visualization, creating plots and charts.
+seaborn: For statistical data visualization, based on Matplotlib.
